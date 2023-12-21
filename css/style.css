@@ -24,3 +24,8 @@ body {
     border-radius: 300px;
 }
 
+.profile-pic {
+    max-width: 300px;
+    border-radius: 50%;
+}
+
